@@ -96,7 +96,6 @@ GET /api/groups/{id}/balances
 Stop application with:
 CTRL + C
 
-
 ====================================
 List of APIs
 ====================================
