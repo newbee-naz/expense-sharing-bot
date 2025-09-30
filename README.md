@@ -67,6 +67,7 @@ POST /api/groups
   "members": ["user1@gmail.com", "user2@gmail.com"]
 }
 
+
 Add an Expense
 POST /api/expenses
 {
